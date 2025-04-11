@@ -13,6 +13,7 @@ To leverage my software engineering skills and cybersecurity knowledge in a Secu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Python Vulnerability Scanner | <a href="https://github.com/picassoendless/python-vulnerability-scanner">Click Here</a> |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
