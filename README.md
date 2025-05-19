@@ -23,6 +23,18 @@ To leverage my software engineering skills and cybersecurity knowledge in a Secu
 
 ## Tools
 
+## AWS Technologies
+<div>
+  <img src="https://img.shields.io/badge/-IAM-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-EC2-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-S3-569A31?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CloudTrail-146EB4?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GuardDuty-D13212?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security_Hub-2E73B8?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CloudFormation-FF4F00?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
