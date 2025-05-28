@@ -48,11 +48,14 @@ From developing secure software to investigating cyber threats and driving secur
     <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
         <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Cloud Practitioner Badge" style="width: 100px;">
     </a>
-      <a href="https://www.credly.com/earner/earned/badge/22dacd9b-9d04-469b-9956-6ad61c32855a">
+      <a href="https://www.credly.com/earner/earned/badge/bea96055-9fed-4260-85f9-66b21fa55305">
         <img src="https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Certified in Cybersecurity (CC) Badge" style="width: 100px;">
     </a>
       <a href="https://www.credly.com/earner/earned/badge/22dacd9b-9d04-469b-9956-6ad61c32855a">
-        <img src="https://images.credly.com/size/680x680/images/1a92e79e-4b58-44ae-b4bd-1f63e83c5294/blob" alt="AWS Cloud Practitioner Badge" style="width: 100px;">
+        <img src="https://images.credly.com/size/680x680/images/1a92e79e-4b58-44ae-b4bd-1f63e83c5294/blob" alt="ISO/IEC 27001:2022 Lead Auditor Badge" style="width: 100px;">
+    </a>
+    <a href="https://www.credly.com/earner/earned/badge/85305b79-903d-49d1-b7bf-1acba9345ad8">
+        <img src="https://images.credly.com/size/680x680/images/bbed017a-ab77-4681-9079-b335d51b083e/image.png" alt="Foundations of Operationalizing MITRE ATT&CK v13 Badge" style="width: 100px;">
     </a>
 </div>
 
