@@ -39,6 +39,17 @@ From developing secure software to investigating cyber threats and driving secur
 | Infrastructure as Code & DevSecOps     | Terraform, AWS CloudFormation Projects |
 | GRC Implementation & Audit Readiness   | ISO 27001 Lead Audit Practice Labs |
 
+<div>
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISC2_CC-000080?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cyberbit_Cyber_Range-0033A0?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISO%2FIEC_27001_Lead_Auditor-228B22?&style=for-the-badge&logo=ISO&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MITRE_ATT%26CK_Framework-6A5ACD?&style=for-the-badge&logo=mitre&logoColor=white" />
+</div>
+
+
 ## 🧰 Tools
 
 ### Network
