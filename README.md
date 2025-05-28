@@ -1,7 +1,7 @@
 # 💡 Welcome to Tendai Nemure's Cybersecurity Hub!  
 <a href="https://www.linkedin.com/in/tendai-nemure/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hello, I’m Tendai Nemure — a cybersecurity graduate student with a passion for cloud security, GRC, and threat detection. I thrive on applying technical and compliance-focused approaches to safeguard digital systems and data.
+Hello, I’m Tendai Nemure — a cybersecurity graduate student at the Katz School of Science & Health in NYC, with a passion for cloud security, GRC, and threat detection. I thrive on applying technical and compliance-focused approaches to safeguard digital systems and data.
 
 ## 🎯 Objective
 
@@ -17,43 +17,6 @@ From developing secure software to investigating cyber threats and driving secur
   - HashiCorp Certified: Terraform Associate (003)  
   - ISC2 Certified in Cybersecurity (CC)  
   - ISO/IEC 27001: 2022 Lead Auditor  
-
-## 🛠️ Skills
-
-### 🧑‍💻 Programming
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### ☁️ Cloud & DevSecOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IAM](https://img.shields.io/badge/-IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GuardDuty](https://img.shields.io/badge/-GuardDuty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Security Hub](https://img.shields.io/badge/-Security%20Hub-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 📋 GRC & Compliance
-![ISO 27001](https://img.shields.io/badge/-ISO_27001-00529B?style=for-the-badge&logo=bookstack&logoColor=white)
-![SOC 2](https://img.shields.io/badge/-SOC_2-00529B?style=for-the-badge&logo=security&logoColor=white)
-![NIST CSF](https://img.shields.io/badge/-NIST_CSF-00529B?style=for-the-badge&logo=framework&logoColor=white)
-![PCI-DSS](https://img.shields.io/badge/-PCI_DSS-00529B?style=for-the-badge&logo=lock&logoColor=white)
-![GDPR](https://img.shields.io/badge/-GDPR-00529B?style=for-the-badge&logo=datadog&logoColor=white)
-
-### 🔐 Security Tools & Frameworks
-![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-5A5A5A?style=for-the-badge&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nessus](https://img.shields.io/badge/-Nessus-1C5FAF?style=for-the-badge&logo=tenable&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/-MITRE_ATT%26CK-003366?style=for-the-badge&logo=mitre&logoColor=white)
-![Sigma Rules](https://img.shields.io/badge/-Sigma_Rules-009999?style=for-the-badge&logo=siemens&logoColor=white)
 
 ## 📂 Projects
 
@@ -89,18 +52,35 @@ From developing secure software to investigating cyber threats and driving secur
 
 ## 🧰 Tools
 
-### Cloud
+### ☁️ Cloud & DevSecOps
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/-AWS%20EC2-FFC0CB?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS%20Lambda-F0FFF0?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
     <img src="https://img.shields.io/badge/-AWS%20S3-90EE90?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
     <img src="https://img.shields.io/badge/-AWS%20RDS-F5FFFA?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
     <img src="https://img.shields.io/badge/-AWS%20CloudWatch-F08080?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20IAM-FFD700?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
+    <img src="https://img.shields.io/badge/-AWS%20GuardDuty-DAF7A6?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
+    <img src="https://img.shields.io/badge/-AWS%20Security%20Hub-FFB6C1?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
+    <img src="https://img.shields.io/badge/-CloudFormation-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=Terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure%20VMs-89CFF0?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure%20Functions-FFFFE0?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
     <img src="https://img.shields.io/badge/-Azure%20SQL%20Database-F5DEB3?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
     <img src="https://img.shields.io/badge/-Azure%20Blob%20Storage-E6E6FA?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
 </div>
+
+
+### 🧑‍💻 Programming
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Network
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -127,6 +107,25 @@ From developing secure software to investigating cyber threats and driving secur
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
+
+### 📋 GRC & Compliance
+![ISO 27001](https://img.shields.io/badge/-ISO_27001-00529B?style=for-the-badge&logo=bookstack&logoColor=white)
+![SOC 2](https://img.shields.io/badge/-SOC_2-00529B?style=for-the-badge&logo=security&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/-NIST_CSF-00529B?style=for-the-badge&logo=framework&logoColor=white)
+![PCI-DSS](https://img.shields.io/badge/-PCI_DSS-00529B?style=for-the-badge&logo=lock&logoColor=white)
+![GDPR](https://img.shields.io/badge/-GDPR-00529B?style=for-the-badge&logo=datadog&logoColor=white)
+
+### 🔐 Security Tools & Frameworks
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-5A5A5A?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/-Nessus-1C5FAF?style=for-the-badge&logo=tenable&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE_ATT%26CK-003366?style=for-the-badge&logo=mitre&logoColor=white)
+![Sigma Rules](https://img.shields.io/badge/-Sigma_Rules-009999?style=for-the-badge&logo=siemens&logoColor=white)
+
 
 
 
