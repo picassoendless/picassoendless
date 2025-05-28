@@ -18,17 +18,42 @@ From developing secure software to investigating cyber threats and driving secur
   - ISC2 Certified in Cybersecurity (CC)  
   - ISO/IEC 27001: 2022 Lead Auditor  
 
-- 🛠️ **Skills**:  
-  - **Programming**: JavaScript, Python, C++, Rust, Go, Bash/Shell scripting  
-  - **Cloud & DevSecOps**: AWS Security (IAM, GuardDuty, Security Hub), Docker, Kubernetes, Terraform, CloudFormation  
-  - **GRC & Compliance**: ISO 27001, SOC 2, NIST CSF, PCI-DSS, GDPR  
-  - **Security Tools & Frameworks**: OWASP ZAP, Burp Suite, Metasploit, Nessus, Splunk, ELK Stack, MITRE ATT&CK, Sigma Rules  
+## 🛠️ Skills
 
-- 💡 **Interests**:  
-  Threat hunting, cloud security, web app security, and GRC automation.
+### 🧑‍💻 Programming
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- 💻 **Current Work**:  
-  Documenting hands-on labs and security projects using Splunk, ELK, Nessus, and MITRE ATT&CK — along with scripting automations for threat detection and reporting.
+### ☁️ Cloud & DevSecOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![IAM](https://img.shields.io/badge/-IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GuardDuty](https://img.shields.io/badge/-GuardDuty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Security Hub](https://img.shields.io/badge/-Security%20Hub-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 📋 GRC & Compliance
+![ISO 27001](https://img.shields.io/badge/-ISO_27001-00529B?style=for-the-badge&logo=bookstack&logoColor=white)
+![SOC 2](https://img.shields.io/badge/-SOC_2-00529B?style=for-the-badge&logo=security&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/-NIST_CSF-00529B?style=for-the-badge&logo=framework&logoColor=white)
+![PCI-DSS](https://img.shields.io/badge/-PCI_DSS-00529B?style=for-the-badge&logo=lock&logoColor=white)
+![GDPR](https://img.shields.io/badge/-GDPR-00529B?style=for-the-badge&logo=datadog&logoColor=white)
+
+### 🔐 Security Tools & Frameworks
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-5A5A5A?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/-Nessus-1C5FAF?style=for-the-badge&logo=tenable&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE_ATT%26CK-003366?style=for-the-badge&logo=mitre&logoColor=white)
+![Sigma Rules](https://img.shields.io/badge/-Sigma_Rules-009999?style=for-the-badge&logo=siemens&logoColor=white)
 
 ## 📂 Projects
 
