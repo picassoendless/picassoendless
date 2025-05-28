@@ -1,75 +1,87 @@
-# Hello, I'm Tendai 
-<a href="https://www.linkedin.com/in/tendai-nemure/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 💡 Welcome to Tendai Nemure's Cybersecurity Hub!  
+<a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+Hello, I’m Tendai Nemure — a cybersecurity graduate student with a passion for cloud security, GRC, and threat detection. I thrive on applying technical and compliance-focused approaches to safeguard digital systems and data.
 
+## 🎯 Objective
 
-I am a Cybersecurity Master's student at the Katz School of Science & Health, Yeshiva University with a background in software development and cybersecurity engineering. My expertise lies in threat detection, security automation, and GRC compliance. Passionate about offensive and defensive security, I am always exploring SOC operations, cloud security, and secure coding practices.
+From developing secure software to investigating cyber threats and driving security best practices, I aim to contribute meaningfully to the cybersecurity field, especially in areas like threat detection, compliance, and cloud security.
 
-## Objective
+- 🎓 **Education**:  
+  - Master of Science in Cybersecurity, Yeshiva University, Katz School of Science and Health (GPA: 4.0), Expected August 2026  
+  - BSc in Information Technology (Software Engineering), Bindura University of Science Education, Zimbabwe  
 
-To leverage my software engineering skills and cybersecurity knowledge in a Security Operations Center (SOC) or cybersecurity engineering role, specializing in threat detection, incident response, and automation.
+- 📚 **Certifications**:  
+  - CompTIA Security+  
+  - AWS Certified Cloud Practitioner  
+  - HashiCorp Certified: Terraform Associate (003)  
+  - ISC2 Certified in Cybersecurity (CC)  
+  - ISO/IEC 27001: 2022 Lead Auditor  
 
-## Skills
+- 🛠️ **Skills**:  
+  - **Programming**: JavaScript, Python, C++, Rust, Go, Bash/Shell scripting  
+  - **Cloud & DevSecOps**: AWS Security (IAM, GuardDuty, Security Hub), Docker, Kubernetes, Terraform, CloudFormation  
+  - **GRC & Compliance**: ISO 27001, SOC 2, NIST CSF, PCI-DSS, GDPR  
+  - **Security Tools & Frameworks**: OWASP ZAP, Burp Suite, Metasploit, Nessus, Splunk, ELK Stack, MITRE ATT&CK, Sigma Rules  
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Python Vulnerability Scanner | <a href="https://github.com/picassoendless/python-vulnerability-scanner">Click Here</a> |
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+- 💡 **Interests**:  
+  Threat hunting, cloud security, web app security, and GRC automation.
 
-## Tools
+- 💻 **Current Work**:  
+  Documenting hands-on labs and security projects using Splunk, ELK, Nessus, and MITRE ATT&CK — along with scripting automations for threat detection and reporting.
 
-## AWS Technologies
-<div>
-  <img src="https://img.shields.io/badge/-IAM-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-EC2-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-S3-569A31?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CloudTrail-146EB4?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GuardDuty-D13212?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Security_Hub-2E73B8?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CloudFormation-FF4F00?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Lambda-6B46C1?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VPC-111111?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Route_53-19457C?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div>
+## 📂 Projects
 
+| Skill                                   | Associated Project |
+|----------------------------------------|--------------------|
+| Web Application Security               | OWASP ZAP, Burp Suite, Metasploit |
+| Threat Detection & Response            | Splunk, ELK Stack, Sigma Rules, MITRE ATT&CK |
+| Infrastructure as Code & DevSecOps     | Terraform, AWS CloudFormation Projects |
+| GRC Implementation & Audit Readiness   | ISO 27001 Lead Audit Practice Labs |
 
+## 🧰 Tools
 
 ### Network
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-90EE90?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-FFFFE0?&style=for-the-badge&logo=Metasploit&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Active%20Directory-FFFFE0?&style=for-the-badge&logo=ActiveDirectory&logoColor=black" />
 </div>
 
 ### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Nessus-F5FFFA?&style=for-the-badge&logo=Tenable&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Tenable.io-FFC0CB?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys%20WAS-F08080?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Uber%20Agent-F5DEB3?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Tenable.sc-90EE90?&style=for-the-badge&logo=Tenable&logoColor=black" />
+    <img src="https://img.shields.io/badge/-MECM-F5FFFA?&style=for-the-badge&logo=Microsoft&logoColor=black" />
 </div>
 
 ### SIEM
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-
-<div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ISC2_CC-000080?&style=for-the-badge&logo=ISC2&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cyberbit_Cyber_Range-0033A0?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+### Cloud
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-AWS%20EC2-FFC0CB?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20Lambda-F0FFF0?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
+    <img src="https://img.shields.io/badge/-AWS%20S3-90EE90?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
+    <img src="https://img.shields.io/badge/-AWS%20RDS-F5FFFA?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
+    <img src="https://img.shields.io/badge/-AWS%20CloudWatch-F08080?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20VMs-89CFF0?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20Functions-FFFFE0?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Azure%20SQL%20Database-F5DEB3?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Azure%20Blob%20Storage-E6E6FA?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
 </div>
 
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+### Service Management
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-ServiceNow-F08080?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
+</div>
