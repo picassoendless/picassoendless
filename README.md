@@ -48,6 +48,9 @@ From developing secure software to investigating cyber threats and driving secur
     <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
         <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Cloud Practitioner Badge" style="width: 100px;">
     </a>
+    <a href="https://www.hashicorp.com/en/certification">
+        <img src="https://miro.medium.com/v2/resize:fit:340/0*gm9zMrPMikAsTtYP.png" alt=" Badge" style="width: 100px;">
+    </a>
       <a href="https://www.credly.com/earner/earned/badge/bea96055-9fed-4260-85f9-66b21fa55305">
         <img src="https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Certified in Cybersecurity (CC) Badge" style="width: 100px;">
     </a>
