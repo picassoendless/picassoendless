@@ -1,5 +1,5 @@
 # 💡 Welcome to Tendai Nemure's Cybersecurity Hub!  
-<a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tendai-nemure/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hello, I’m Tendai Nemure — a cybersecurity graduate student with a passion for cloud security, GRC, and threat detection. I thrive on applying technical and compliance-focused approaches to safeguard digital systems and data.
 
