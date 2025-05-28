@@ -100,8 +100,4 @@ From developing secure software to investigating cyber threats and driving secur
     <img src="https://img.shields.io/badge/-Azure%20Blob%20Storage-E6E6FA?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
 </div>
 
-### Service Management
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/-ServiceNow-F08080?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
-</div>
+
