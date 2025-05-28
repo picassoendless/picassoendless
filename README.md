@@ -64,6 +64,19 @@ From developing secure software to investigating cyber threats and driving secur
 
 ## 🧰 Tools
 
+### Cloud
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-AWS%20EC2-FFC0CB?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20Lambda-F0FFF0?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
+    <img src="https://img.shields.io/badge/-AWS%20S3-90EE90?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
+    <img src="https://img.shields.io/badge/-AWS%20RDS-F5FFFA?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
+    <img src="https://img.shields.io/badge/-AWS%20CloudWatch-F08080?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20VMs-89CFF0?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20Functions-FFFFE0?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Azure%20SQL%20Database-F5DEB3?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Azure%20Blob%20Storage-E6E6FA?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
+</div>
+
 ### Network
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -90,17 +103,6 @@ From developing secure software to investigating cyber threats and driving secur
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### Cloud
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/-AWS%20EC2-FFC0CB?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20Lambda-F0FFF0?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
-    <img src="https://img.shields.io/badge/-AWS%20S3-90EE90?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
-    <img src="https://img.shields.io/badge/-AWS%20RDS-F5FFFA?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black" />
-    <img src="https://img.shields.io/badge/-AWS%20CloudWatch-F08080?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure%20VMs-89CFF0?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure%20Functions-FFFFE0?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Azure%20SQL%20Database-F5DEB3?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Azure%20Blob%20Storage-E6E6FA?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
-</div>
+
 
 
