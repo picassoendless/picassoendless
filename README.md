@@ -39,16 +39,22 @@ From developing secure software to investigating cyber threats and driving secur
 | Infrastructure as Code & DevSecOps     | Terraform, AWS CloudFormation Projects |
 | GRC Implementation & Audit Readiness   | ISO 27001 Lead Audit Practice Labs |
 
-<div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ISC2_CC-000080?&style=for-the-badge&logo=ISC2&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cyberbit_Cyber_Range-0033A0?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ISO%2FIEC_27001_Lead_Auditor-228B22?&style=for-the-badge&logo=ISO&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MITRE_ATT%26CK_Framework-6A5ACD?&style=for-the-badge&logo=mitre&logoColor=white" />
-</div>
+## Certifications
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://www.credly.com/earner/earned/badge/d5a50231-04f0-4bcd-9cd0-be3846f0782e">
+        <img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-jpg.16/full" alt="CompTIA Security+ Badge" style="width: 100px;">
+    </a>
+    <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
+        <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Cloud Practitioner Badge" style="width: 100px;">
+    </a>
+      <a href="https://www.credly.com/earner/earned/badge/22dacd9b-9d04-469b-9956-6ad61c32855a">
+        <img src="https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Certified in Cybersecurity (CC) Badge" style="width: 100px;">
+    </a>
+      <a href="https://www.credly.com/earner/earned/badge/22dacd9b-9d04-469b-9956-6ad61c32855a">
+        <img src="https://images.credly.com/size/680x680/images/1a92e79e-4b58-44ae-b4bd-1f63e83c5294/blob" alt="AWS Cloud Practitioner Badge" style="width: 100px;">
+    </a>
+</div>
 
 ## 🧰 Tools
 
