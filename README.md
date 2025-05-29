@@ -67,10 +67,7 @@ From developing secure software to investigating cyber threats and driving secur
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=Terraform&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure%20VMs-89CFF0?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure%20Functions-FFFFE0?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Azure%20SQL%20Database-F5DEB3?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Azure%20Blob%20Storage-E6E6FA?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=black" />
+  
 </div>
 
 
@@ -88,7 +85,6 @@ From developing secure software to investigating cyber threats and driving secur
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-90EE90?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-FFFFE0?&style=for-the-badge&logo=Metasploit&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Active%20Directory-FFFFE0?&style=for-the-badge&logo=ActiveDirectory&logoColor=black" />
 </div>
 
 ### Endpoint
