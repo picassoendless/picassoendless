@@ -22,7 +22,7 @@ From developing secure software to investigating cyber threats and driving secur
 
 | Skill                                   | Associated Project |
 |----------------------------------------|--------------------|
-| Web Application Security               | OWASP ZAP, Burp Suite, Metasploit |
+| Cloud Intrusion Detection using Deep Learning  | AWS Lambda, AWS S3, SageMaker, Terraform, CloudTrail |
 | Threat Detection & Response            | Splunk, ELK Stack, Sigma Rules, MITRE ATT&CK |
 | Infrastructure as Code & DevSecOps     | Terraform, AWS CloudFormation Projects |
 | GRC Implementation & Audit Readiness   | ISO 27001 Lead Audit Practice Labs |
