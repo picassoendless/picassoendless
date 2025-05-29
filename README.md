@@ -36,6 +36,9 @@ From developing secure software to investigating cyber threats and driving secur
     <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
         <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Cloud Practitioner Badge" style="width: 100px;">
     </a>
+     <a href="https://aws.amazon.com/certification/certified-ai-practitioner/?ch=sec&sec=rmg&d=1">
+        <img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/aif-badge-resized.60d18a9a788f1bb28fed8d453ef896721c06f8f5.png" alt="AWS Cloud Practitioner Badge" style="width: 100px;">
+    </a>
     <a href="https://www.hashicorp.com/en/certification">
         <img src="https://miro.medium.com/v2/resize:fit:340/0*gm9zMrPMikAsTtYP.png" alt=" Badge" style="width: 100px;">
     </a>
