@@ -8,7 +8,7 @@ Hello, I’m Tendai Nemure — a cybersecurity graduate student at the Katz Scho
 From developing secure software to investigating cyber threats and driving security best practices, I aim to contribute meaningfully to the cybersecurity field, especially in areas like threat detection, compliance, and cloud security.
 
 - 🎓 **Education**:  
-  - Master of Science in Cybersecurity, Katz School of Science and Health, Yeshiva University (GPA: 4.0), Expected August 2026  
+  - Master of Science in Cybersecurity, Katz School of Science and Health, Yeshiva University (GPA: 4.0), Expected December 2026  
   - BSc in Information Technology (Software Engineering), Bindura University of Science Education, Zimbabwe  
 
 - 📚 **Certifications**:  
