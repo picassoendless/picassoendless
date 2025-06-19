@@ -19,14 +19,14 @@ From developing secure software to investigating cyber threats and driving secur
   - ISO/IEC 27001: 2022 Lead Auditor  
 
 ## 📂 Projects
+| Project Name                                   | Tools Used  | Skills Gained |
+|----------------------------------------|--------------------|---------------|
+| [Cloud Intrusion Detection using Deep Learning](https://github.com/yourusername/cloud-intrusion-detection)  | AWS Lambda, AWS S3, SageMaker, Terraform, CloudTrail | Machine Learning for Security, Cloud Security Architecture, Anomaly Detection, Infrastructure Automation |
+| [Python-Based Vulnerability Scanner](https://github.com/yourusername/vulnerability-scanner) | Port scanning (Ports 1–1024), HTTP header analysis, Nmap scanning, Shodan lookups | Network Security Assessment, Python Scripting, OSINT Techniques, Vulnerability Analysis |
+| [Threat Detection & Response](https://github.com/yourusername/threat-detection)            | Splunk, ELK Stack, Sigma Rules, MITRE ATT&CK | SIEM Implementation, Threat Hunting, Incident Response, Attack Pattern Analysis |
+| [Infrastructure as Code & DevSecOps](https://github.com/yourusername/iac-devsecops)     | Terraform, AWS CloudFormation Projects | Infrastructure Automation, Security as Code, CI/CD Pipeline Security, Cloud Governance |
+| [GRC Implementation & Audit Readiness](https://github.com/yourusername/grc-implementation)   | ISO 27001 Lead Audit Practice Labs | Compliance Framework Implementation, Risk Assessment, Security Controls Design, Audit Preparation |
 
-| Project Name                                   | Tools Used  |
-|----------------------------------------|--------------------|
-| Cloud Intrusion Detection using Deep Learning  | AWS Lambda, AWS S3, SageMaker, Terraform, CloudTrail |
-| Python-Based Vulnerability Scanner | Port scanning (Ports 1–1024), HTTP header analysis, Nmap scanning, Shodan lookups
-| Threat Detection & Response            | Splunk, ELK Stack, Sigma Rules, MITRE ATT&CK |
-| Infrastructure as Code & DevSecOps     | Terraform, AWS CloudFormation Projects |
-| GRC Implementation & Audit Readiness   | ISO 27001 Lead Audit Practice Labs |
 
 ## Certifications
 
