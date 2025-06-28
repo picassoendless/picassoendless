@@ -1,8 +1,6 @@
 # 💡 Welcome to Tendai Nemure's Profile!  
 <a href="https://www.linkedin.com/in/tendai-nemure/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hello, I’m Tendai Nemure — a cybersecurity graduate student at the Katz School of Science & Health in NYC, with a passion for cloud security, GRC, and threat detection. I thrive on applying technical and compliance-focused approaches to safeguard digital systems and data.
-
 ## 🎯 Objective
 
 From developing secure software to investigating cyber threats and driving security best practices, I aim to contribute meaningfully to the cybersecurity field, especially in areas like threat detection, compliance, and cloud security.
