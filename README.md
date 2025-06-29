@@ -19,7 +19,7 @@ From developing secure software to investigating cyber threats and driving secur
 ## 📂 Projects
 | Project Name                                   | Tools Used  | Skills Gained |
 |----------------------------------------|--------------------|---------------|
-| [Cloud Intrusion Detection using Deep Learning](https://github.com/picassoendless/aws-ids-deeplearning/blob/main/README.md)  | AWS Lambda, AWS S3, SageMaker, Terraform, CloudTrail | Machine Learning for Security, Cloud Security Architecture, Anomaly Detection, Infrastructure Automation |
+| [SentinelAI: Cloud-Native Intrusion Detection Platform on AWS SageMaker and FastAPI](https://github.com/picassoendless/aws-ids-deeplearning/blob/main/README.md)  | AWS Lambda, AWS S3, SageMaker, Terraform, CloudTrail | Machine Learning for Security, Cloud Security Architecture, Anomaly Detection, Infrastructure Automation |
 | [Python-Based Vulnerability Scanner](https://github.com/picassoendless/python-vulnerability-scanner) | Port scanning (Ports 1–1024), HTTP header analysis, Nmap scanning, Shodan lookups | Network Security Assessment, Python Scripting, OSINT Techniques, Vulnerability Analysis |
 | [Threat Detection & Response](https://github.com/picassoendless/)            | Splunk, ELK Stack, Sigma Rules, MITRE ATT&CK | SIEM Implementation, Threat Hunting, Incident Response, Attack Pattern Analysis |
 | [Infrastructure as Code & DevSecOps](https://github.com/picassoendless/)     | Terraform, AWS CloudFormation Projects | Infrastructure Automation, Security as Code, CI/CD Pipeline Security, Cloud Governance |
